@@ -2,6 +2,8 @@
 
 Simple script for parsing keycodes from an X-based keylogger on Linux. Requires no installation, and can run as a rootless keylogger on Linux based machines.
 
+Credits to: @porterhau5
+
 ## Usage
 ```
 $ python xkeyscan.py -h
